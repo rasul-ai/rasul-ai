@@ -1,14 +1,42 @@
-# Hi there 👋 My name is Md Rasul Islam Bapary.
+# 👋 Hi, I'm Md Rasul Islam Bapary
 
-## About Me:
-- 🔭 I’m currently working on Machine Learning, Deep Learning, Computer Vision, LLM's, Generative AI, Reinforcement Learning, Agentic AI.
-- 🌱 I’m currently learning tons of cool stuff in all the above areas (and beyond).
-- 👯 I’m looking to collaborate with any person or company or institution who are working in these fields.
-- 💬 Ask me about anything although I might only be able to reply meaningfully if the ask is specific, and within my areas of expertise.
+## 🤖 AI Engineer | Machine Learning Specialist
 
-  # Reach Me:
-  [![image](https://github.com/rasul-ai/rasul-ai/assets/149916597/28f4c350-874c-4c4a-83d3-9f2ff52cb08b)](https://www.facebook.com/rasulislam.rasul.5)
-  [![image](https://github.com/rasul-ai/rasul-ai/assets/149916597/658ce1e0-98d1-42c8-b1f9-6b0dda0cb6d3)](https://www.linkedin.com/in/rasul-islam-bapary-36987b283/)
-  [![image](C:\Users\Rasul Islam Bapary\Downloads\download.png)](https://scholar.google.com/citations?user=m2NSbWwAAAAJ&hl=en)
+I'm an AI Engineer passionate about building intelligent systems that solve real-world problems. My expertise spans across the entire AI/ML spectrum, from classical machine learning to cutting-edge generative AI and agentic systems.
 
+## 🚀 Areas of Expertise
 
+- **Machine Learning & Deep Learning**: Building and deploying ML models for various applications
+- **Computer Vision**: Object detection, OCR, image processing, and real-time video analysis
+- **Large Language Models (LLMs)**: Fine-tuning, prompt engineering, and LLM-based applications
+- **Generative AI**: Creating innovative solutions using state-of-the-art generative models
+- **Reinforcement Learning**: Developing intelligent agents that learn from interaction
+- **Agentic AI**: Building autonomous AI systems with reasoning and decision-making capabilities
+
+## 💼 What I'm Working On
+
+- 🔭 Developing production-ready AI solutions across multiple domains
+- 🌱 Continuously learning and experimenting with the latest AI technologies
+- 👯 Open to collaborating on innovative AI projects with individuals, companies, and research institutions
+- 💬 Happy to discuss AI/ML topics, especially within my areas of expertise
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rasul-islam-bapary-36987b283/" target="_blank">
+    <img src="assets/linkedin.png" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://github.com/rasul-ai" target="_blank">
+    <img src="assets/github.png" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=m2NSbWwAAAAJ&hl=en" target="_blank">
+    <img src="assets/google_scholar.png" alt="Google Scholar" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.facebook.com/rasulislam.rasul.5" target="_blank">
+    <img src="assets/facebook.png" alt="Facebook" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+*Let's build the future of AI together!* 🚀
