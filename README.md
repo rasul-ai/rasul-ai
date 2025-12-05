@@ -24,7 +24,7 @@ I'm an AI Engineer passionate about building intelligent systems that solve real
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rasul-islam-bapary-36987b283/" target="_blank">
-    <img src="assets/linkedin.png" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="assets/linkedin.jpeg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://github.com/rasul-ai" target="_blank">
     <img src="assets/github.png" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
@@ -33,7 +33,7 @@ I'm an AI Engineer passionate about building intelligent systems that solve real
     <img src="assets/google_scholar.png" alt="Google Scholar" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.facebook.com/rasulislam.rasul.5" target="_blank">
-    <img src="assets/facebook.png" alt="Facebook" width="40" height="40"/>
+    <img src="assets/facebook.webp" alt="Facebook" width="40" height="40"/>
   </a>
 </p>
 
