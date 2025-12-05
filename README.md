@@ -24,16 +24,16 @@ I'm an AI Engineer passionate about building intelligent systems that solve real
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rasul-islam-bapary-36987b283/" target="_blank">
-    <img src="assets/linkedin.jpeg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="assets/linkedin.png" alt="LinkedIn" width="70" height="20" style="margin-right: 10px;"/>
   </a>
   <a href="https://github.com/rasul-ai" target="_blank">
-    <img src="assets/github.png" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="assets/github.jpg" alt="GitHub" width="70" height="20" style="margin-right: 10px;"/>
   </a>
   <a href="https://scholar.google.com/citations?user=m2NSbWwAAAAJ&hl=en" target="_blank">
-    <img src="assets/google_scholar.png" alt="Google Scholar" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="assets/google scholar.jpg" alt="Google Scholar" width="70" height="20" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.facebook.com/rasulislam.rasul.5" target="_blank">
-    <img src="assets/facebook.webp" alt="Facebook" width="40" height="40"/>
+    <img src="https://github.com/rasul-ai/rasul-ai/assets/149916597/28f4c350-874c-4c4a-83d3-9f2ff52cb08b" alt="Facebook"/>
   </a>
 </p>
 
