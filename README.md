@@ -20,10 +20,10 @@ I'm an AI Engineer passionate about building intelligent systems that solve real
     <img src="assets/linkedin.png" alt="LinkedIn" width="70" height="20" style="margin-right: 30px;"/>
   </a>
   <a href="https://github.com/rasul-ai" target="_blank">
-    <img src="assets/github.jpg" alt="GitHub" width="70" height="20" style="margin-right: 10px;"/>
+    <img src="assets/github.jpg" alt="GitHub" width="70" height="20" style="margin-right: 30px;"/>
   </a>
   <a href="https://scholar.google.com/citations?user=m2NSbWwAAAAJ&hl=en" target="_blank">
-    <img src="assets/google scholar.jpg" alt="Google Scholar" width="70" height="20" style="margin-right: 10px;"/>
+    <img src="assets/google scholar.jpg" alt="Google Scholar" width="70" height="20" style="margin-right: 30px;"/>
   </a>
   <a href="https://www.facebook.com/rasulislam.rasul.5" target="_blank">
     <img src="https://github.com/rasul-ai/rasul-ai/assets/149916597/28f4c350-874c-4c4a-83d3-9f2ff52cb08b" alt="Facebook"/>
