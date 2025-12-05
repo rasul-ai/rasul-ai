@@ -17,7 +17,7 @@ I'm an AI Engineer passionate about building intelligent systems that solve real
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rasul-islam-bapary-36987b283/" target="_blank">
-    <img src="assets/linkedin.png" alt="LinkedIn" width="70" height="20" style="margin-right: 10px;"/>
+    <img src="assets/linkedin.png" alt="LinkedIn" width="70" height="20" style="margin-right: 30px;"/>
   </a>
   <a href="https://github.com/rasul-ai" target="_blank">
     <img src="assets/github.jpg" alt="GitHub" width="70" height="20" style="margin-right: 10px;"/>
