@@ -13,13 +13,6 @@ I'm an AI Engineer passionate about building intelligent systems that solve real
 - **Reinforcement Learning**: Developing intelligent agents that learn from interaction
 - **Agentic AI**: Building autonomous AI systems with reasoning and decision-making capabilities
 
-## 💼 What I'm Working On
-
-- 🔭 Developing production-ready AI solutions across multiple domains
-- 🌱 Continuously learning and experimenting with the latest AI technologies
-- 👯 Open to collaborating on innovative AI projects with individuals, companies, and research institutions
-- 💬 Happy to discuss AI/ML topics, especially within my areas of expertise
-
 ## 📫 Connect With Me
 
 <p align="left">
@@ -36,7 +29,3 @@ I'm an AI Engineer passionate about building intelligent systems that solve real
     <img src="https://github.com/rasul-ai/rasul-ai/assets/149916597/28f4c350-874c-4c4a-83d3-9f2ff52cb08b" alt="Facebook"/>
   </a>
 </p>
-
----
-
-*Let's build the future of AI together!* 🚀
