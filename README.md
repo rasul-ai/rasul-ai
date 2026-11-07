@@ -19,7 +19,7 @@ AI Engineer with 3+ years of experience building production computer vision, LLM
 
 <p align="left">
   <a href="https://rasul-ai.github.io/portfolio/" target="_blank">
-    <img src="assets/portfolio.svg" alt="Portfolio" width="70" height="20" style="margin-right: 30px;"/>
+    <img src="assets/portfolio.svg" alt="Portfolio" width="80" height="20" style="margin-right: 30px;"/>
   </a>
   <a href="https://www.linkedin.com/in/rasul-islam-bapary-36987b283/" target="_blank">
     <img src="assets/linkedin.png" alt="LinkedIn" width="70" height="20" style="margin-right: 30px;"/>
