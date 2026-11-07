@@ -8,31 +8,11 @@ AI Engineer with 3+ years of experience building production computer vision, LLM
 
 - **Machine Learning & Deep Learning**: Building and deploying ML models for various applications
 - **Computer Vision**: Object detection, OCR, image processing, and real-time video analysis
-- **Large Language Models (LLMs)**: Fine-tuning, post-training (DPO, GRPO), evaluation, and LLM-based applications
+- **Large Language Models (LLMs)**: Fine-tuning, post-training LLMs, evaluation, and LLM-based applications
 - **Speech AI**: Bangla ASR, speech-to-text, text-to-speech, and voice-driven workflows
 - **Generative AI**: Creating innovative solutions using state-of-the-art generative models
 - **Reinforcement Learning**: Developing intelligent agents that learn from interaction
 - **Agentic AI**: Building autonomous AI systems with reasoning and decision-making capabilities
-
-## 📚 Publications & Blog
-
-- Hasan, K.; Tuhin, K.A.; **Bapary, M.R.I.**; Doula, M.S.U.; Alam, M.A.; Ahad, M.A.R.; Uddin, M.Z. *MMF-Gait: A Multi-Model Fusion-Enhanced Gait Recognition Framework Integrating Convolutional and Attention Networks.* Symmetry 2025, 17, 1155. [doi:10.3390/sym17071155](https://doi.org/10.3390/sym17071155)
-- [State Space Models and Mamba from First Principles](https://medium.com/@ai.rasulbapary/state-space-models-and-mamba-from-first-principles-dc005c518dbd) — Medium
-
-## 🛠️ Skills
-
-| Category | Tools & Technologies |
-|---|---|
-| Languages | Python, C++, C |
-| AI & ML | Machine Learning, Computer Vision, NLP, Generative AI, Reinforcement Learning |
-| LLMs & Speech | Large Language Models, RAG, Prompt Engineering, STT, TTS, OCR |
-| Frameworks | PyTorch, scikit-learn, OpenCV, LangChain, Transformers, Ollama, vLLM, unsloth |
-| Backend & Web | FastAPI, Flask, React.js, Next.js, Vite, HTML5/CSS3 |
-| Databases | PostgreSQL, MySQL, SQLite |
-| Cloud & Compute | AWS, Lightning AI, Anyscale, Mila Cluster |
-| DevOps & Tools | Docker, Git, GitHub Actions (CI/CD), VS Code, Cursor |
-| Embedded & IoT | Raspberry Pi, Arduino, Sensors |
-
 
 
 ## 📫 Connect With Me
